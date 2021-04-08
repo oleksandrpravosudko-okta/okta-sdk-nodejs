@@ -13,6 +13,8 @@
 
 /* THIS FILE IS AUTO-GENERATED - SEE CONTRIBUTOR DOCUMENTATION */
 
+// test change
+
 import { Resource } from '../resource';
 import { Client } from '../client';
 
